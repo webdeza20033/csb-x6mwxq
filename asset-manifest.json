@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://webdeza20033.github.io/csb-x6mwxq/static/js/main.25986940.chunk.js",
-    "main.js.map": "https://webdeza20033.github.io/csb-x6mwxq/static/js/main.25986940.chunk.js.map",
+    "main.js": "https://webdeza20033.github.io/csb-x6mwxq/static/js/main.d9aafc8f.chunk.js",
+    "main.js.map": "https://webdeza20033.github.io/csb-x6mwxq/static/js/main.d9aafc8f.chunk.js.map",
     "runtime-main.js": "https://webdeza20033.github.io/csb-x6mwxq/static/js/runtime-main.442909f9.js",
     "runtime-main.js.map": "https://webdeza20033.github.io/csb-x6mwxq/static/js/runtime-main.442909f9.js.map",
-    "static/js/2.b6f38a6a.chunk.js": "https://webdeza20033.github.io/csb-x6mwxq/static/js/2.b6f38a6a.chunk.js",
-    "static/js/2.b6f38a6a.chunk.js.map": "https://webdeza20033.github.io/csb-x6mwxq/static/js/2.b6f38a6a.chunk.js.map",
+    "static/js/2.d5bf8f07.chunk.js": "https://webdeza20033.github.io/csb-x6mwxq/static/js/2.d5bf8f07.chunk.js",
+    "static/js/2.d5bf8f07.chunk.js.map": "https://webdeza20033.github.io/csb-x6mwxq/static/js/2.d5bf8f07.chunk.js.map",
     "index.html": "https://webdeza20033.github.io/csb-x6mwxq/index.html",
-    "static/js/2.b6f38a6a.chunk.js.LICENSE.txt": "https://webdeza20033.github.io/csb-x6mwxq/static/js/2.b6f38a6a.chunk.js.LICENSE.txt"
+    "static/js/2.d5bf8f07.chunk.js.LICENSE.txt": "https://webdeza20033.github.io/csb-x6mwxq/static/js/2.d5bf8f07.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.442909f9.js",
-    "static/js/2.b6f38a6a.chunk.js",
-    "static/js/main.25986940.chunk.js"
+    "static/js/2.d5bf8f07.chunk.js",
+    "static/js/main.d9aafc8f.chunk.js"
   ]
 }
